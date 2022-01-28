@@ -9,3 +9,6 @@
 ![Book logo](/least-github-pages/assets/logo.png)
 ![image](/restore/blob/main/Restore/1.png)
 ![image](/restore/Restore/1.png)
+
+<img src="http://www.consuminglinkeddata.org//img/sql_server_2016_restore_a_database.jpg">
+
