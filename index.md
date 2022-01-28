@@ -1,3 +1,15 @@
 ## Restaurando um Banco de Dados no SQL Server
 
 ![alt text](https://github.com/fernandosrando/restore/blob/main/Restore/1.png?raw=true)
+![alt text](https://github.com/fernandosrando/restore/blob/main/Restore/2.png?raw=true)
+![alt text](https://github.com/fernandosrando/restore/blob/main/Restore/3.png?raw=true)
+![alt text](https://github.com/fernandosrando/restore/blob/main/Restore/4.png?raw=true)
+![alt text](https://github.com/fernandosrando/restore/blob/main/Restore/5.png?raw=true)
+![alt text](https://github.com/fernandosrando/restore/blob/main/Restore/6.png?raw=true)
+![alt text](https://github.com/fernandosrando/restore/blob/main/Restore/7.png?raw=true)
+![alt text](https://github.com/fernandosrando/restore/blob/main/Restore/8.png?raw=true)
+![alt text](https://github.com/fernandosrando/restore/blob/main/Restore/9.png?raw=true)
+![alt text](https://github.com/fernandosrando/restore/blob/main/Restore/10.png?raw=true)
+![alt text](https://github.com/fernandosrando/restore/blob/main/Restore/11.png?raw=true)
+![alt text](https://github.com/fernandosrando/restore/blob/main/Restore/12.png?raw=true)
+![alt text](https://github.com/fernandosrando/restore/blob/main/Restore/13.png?raw=true)
